@@ -1,0 +1,252 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "coverPhoto": "https://images.unsplash.com/photo-1506318164473-2dfd3ede3623?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80",
+      "name": "Places to Visit"
+    },
+    {
+      "id": 2,
+      "coverPhoto": "https://images.unsplash.com/photo-1574879761637-8a6e76ac5662?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=80",
+      "name": "Sports Cars"
+    },
+    {
+      "id": 3,
+      "coverPhoto": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+      "name": "Sports"
+    },
+    {
+      "id": 4,
+      "coverPhoto": "https://images.unsplash.com/photo-1444464666168-49d633b86797?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1349&q=80",
+      "name": "Nature"
+    },
+    {
+      "id": 5,
+      "coverPhoto": "https://images.unsplash.com/photo-1543682704-15adeb008ac4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=641&q=80",
+      "name": "Animals"
+    },
+    {
+      "id": 6,
+      "coverPhoto": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+      "name": "people"
+    }
+  ],
+  "photos": [
+    {
+      "id": 1,
+      "albumId": 1,
+      "title": "Las Vegas",
+      "url": "https://images.unsplash.com/photo-1543321269-9d86d3680e1c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 2,
+      "albumId": 1,
+      "title": "Chicago",
+      "url": "https://images.unsplash.com/photo-1524168272322-bf73616d9cb5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 3,
+      "albumId": 1,
+      "title": "New York",
+      "url": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 4,
+      "albumId": 1,
+      "title": "Monte-Carlo",
+      "url": "https://images.unsplash.com/photo-1566806925366-46c8926ec71c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1402&q=80"
+    },
+    {
+      "id": 5,
+      "albumId": 1,
+      "title": "Salt Lake City",
+      "url": "https://images.unsplash.com/photo-1482192505345-5655af888cc4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "id": 6,
+      "albumId": 1,
+      "title": "Bora Bora",
+      "url": "https://images.unsplash.com/photo-1532614034235-187d8e4d6cfc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1268&q=80"
+    },
+    {
+      "id": 1,
+      "albumId": 2,
+      "title": "Mustang",
+      "url": "https://images.unsplash.com/photo-1494905998402-395d579af36f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 2,
+      "albumId": 2,
+      "title": "Chevy",
+      "url": "https://images.unsplash.com/photo-1562911791-c7a97b729ec5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1408&q=80"
+    },
+    {
+      "id": 3,
+      "albumId": 2,
+      "title": "Porsche",
+      "url": "https://images.unsplash.com/photo-1495483727786-5859395ce43a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1487&q=80"
+    },
+    {
+      "id": 4,
+      "albumId": 2,
+      "title": "Mercedes-Benz",
+      "url": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1311&q=80"
+    },
+    {
+      "id": 5,
+      "albumId": 2,
+      "title": "Ferrari",
+      "url": "https://images.unsplash.com/photo-1554223090-7e482851df45?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1292&q=80"
+    },
+    {
+      "id": 6,
+      "albumId": 2,
+      "title": "Lamborghini",
+      "url": "https://images.unsplash.com/photo-1532581140115-3e355d1ed1de?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 1,
+      "albumId": 3,
+      "title": "Baseball",
+      "url": "https://images.unsplash.com/photo-1480563597043-1c877e682fc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 2,
+      "albumId": 3,
+      "title": "Rugby",
+      "url": "https://images.unsplash.com/photo-1480099225005-2513c8947aec?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1465&q=80"
+    },
+    {
+      "id": 3,
+      "albumId": 3,
+      "title": "X-Games",
+      "url": "https://images.unsplash.com/photo-1569074187119-c87815b476da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1225&q=80"
+    },
+    {
+      "id": 4,
+      "albumId": 3,
+      "title": "Tour de France",
+      "url": "https://images.unsplash.com/photo-1517649763962-0c623066013b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 5,
+      "albumId": 3,
+      "title": "Swimming",
+      "url": "https://images.unsplash.com/photo-1530549387789-4c1017266635?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 6,
+      "albumId": 3,
+      "title": "Crossfit",
+      "url": "https://images.unsplash.com/photo-1556817411-31ae72fa3ea0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 1,
+      "albumId": 4,
+      "title": "Mountains",
+      "url": "https://images.unsplash.com/photo-1531111885760-8e729bba027b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1348&q=80"
+    },
+    {
+      "id": 2,
+      "albumId": 4,
+      "title": "Valley",
+      "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 3,
+      "albumId": 4,
+      "title": "Rain",
+      "url": "https://images.unsplash.com/photo-1501999635878-71cb5379c2d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80"
+    },
+    {
+      "id": 4,
+      "albumId": 4,
+      "title": "Snow",
+      "url": "https://images.unsplash.com/photo-1517299321609-52687d1bc55a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 5,
+      "albumId": 4,
+      "title": "Volcano",
+      "url": "https://images.unsplash.com/photo-1541845157-a6d2d100c931?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 6,
+      "albumId": 4,
+      "title": "Tornado",
+      "url": "https://images.unsplash.com/flagged/photo-1552483570-019b7f8119b2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 1,
+      "albumId": 5,
+      "title": "Whale",
+      "url": "https://images.unsplash.com/photo-1568430462989-44163eb1752f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80"
+    },
+    {
+      "id": 2,
+      "albumId": 5,
+      "title": "Shark",
+      "url": "https://images.unsplash.com/photo-1563186627-0d185db94083?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 3,
+      "albumId": 5,
+      "title": "Elephant",
+      "url": "https://images.unsplash.com/photo-1521651201144-634f700b36ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 4,
+      "albumId": 5,
+      "title": "Wolf",
+      "url": "https://images.unsplash.com/photo-1510853675132-58241c941e4f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 5,
+      "albumId": 5,
+      "title": "Lion",
+      "url": "https://images.unsplash.com/photo-1517649281203-dad836b4abe5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 6,
+      "albumId": 5,
+      "title": "Tiger",
+      "url": "https://images.unsplash.com/photo-1551972251-12070d63502a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+    },
+    {
+      "id": 1,
+      "albumId": 6,
+      "title": "Kim",
+      "url": "https://images.unsplash.com/photo-1496840220025-4cbde0b9df65?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2134&q=80"
+    },
+    {
+      "id": 2,
+      "albumId": 6,
+      "title": "Niomi",
+      "url": "https://images.unsplash.com/photo-1535295972055-1c762f4483e5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    },
+    {
+      "id": 3,
+      "albumId": 6,
+      "title": "Jason",
+      "url": "https://images.unsplash.com/photo-1505503693641-1926193e8d57?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    },
+    {
+      "id": 4,
+      "albumId": 6,
+      "title": "J",
+      "url": "https://images.unsplash.com/photo-1519742866993-66d3cfef4bbd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=562&q=80"
+    },
+    {
+      "id": 5,
+      "albumId": 6,
+      "title": "Susan",
+      "url": "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    },
+    {
+      "id": 6,
+      "albumId": 6,
+      "title": "Leila",
+      "url": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    }
+  ]
+}

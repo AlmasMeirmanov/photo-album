@@ -1,0 +1,35 @@
+h1 {
+  border: 1px solid black;
+  text-align: center;
+  width: 1262px;
+  margin-left: 261px;
+  height: 100px;
+  padding-top: 25px;
+  background-color: grey;
+}
+.row1 {
+  display: flex;
+  justify-content: center;
+  width: 1200px;
+  margin: auto;
+  flex-wrap: wrap;
+}
+
+img {
+}
+p {
+  text-align: center;
+  border: 1px solid black;
+  padding: 10px;
+  margin-top: -3px;
+  width: 200px;
+}
+.album {
+  padding-right: 150px;
+  margin-right: 20px;
+}
+
+.album img {
+  max-width: 200px;
+  border: 1px solid black;
+}
