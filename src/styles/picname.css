@@ -1,0 +1,10 @@
+.wrapper {
+  text-align: center;
+}
+.photo img {
+  max-width: 700px;
+}
+.pic {
+  width: 700px;
+  margin-left: 490px;
+}

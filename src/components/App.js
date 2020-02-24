@@ -9,7 +9,7 @@ export default props => {
       <div className="box">
         <Route exact path="/" component={MyAlbums} />
         <Route path="/AlbumName/:id" component={AlbumName} />
-        <Router path="/PicName/:id" component={PicName} />
+        <Route path="/PicName/:id" component={PicName} />
       </div>
     </Router>
   )

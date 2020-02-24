@@ -8,7 +8,7 @@ export function getAlbums() {
         resolve(resp.data)
       })
       .catch(e => {
-        reject()
+        reject(e)
       })
   })
 }
@@ -21,7 +21,7 @@ export function getAlbum(id) {
         resolve(resp.data)
       })
       .catch(e => {
-        reject()
+        reject(e)
       })
   })
 }
@@ -34,7 +34,7 @@ export function getPhoto(id) {
         console.log(resp.data)
       })
       .catch(e => {
-        reject()
+        reject(e)
       })
   })
 }

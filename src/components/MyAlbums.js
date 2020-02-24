@@ -14,7 +14,7 @@ export default function() {
       <h1>My Albums</h1>
       <div className="row1">
         {albums.map(album => (
-          <Link to={"/AlbumName/" + album.id}>
+          <Link key={"album-link-" + album.id} to={"/AlbumName/" + album.id}>
             <div className="album">
               <img src={album.coverPhoto} />
               <p className="album">{album.name}</p>

@@ -4,7 +4,7 @@ import "../styles/albumname.css"
 import { getAlbum } from "../actions/Albums"
 
 export default props => {
-  const [album, setAlbum] = useState([])
+  const [album, setAlbum] = useState({})
   const [photos, setPhotos] = useState([])
 
   useEffect(() => {
@@ -19,7 +19,7 @@ export default props => {
       <h1 className="head">{album.name}</h1>
       <div className="photos">
         {photos.map(photo => (
-          <Link to={"/PicName/" + photo.id}>
+          <Link key={"photo-link-" + photo.id} to={"/PicName/" + photo.id}>
             <div>
               <img src={photo.url}></img>
               <p className="picname">{photo.title}</p>
