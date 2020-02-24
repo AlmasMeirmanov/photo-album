@@ -1,3 +1,23 @@
 .photos img {
-  max-width: 200px;
+  max-width: 250px;
+  flex-direction: row;
+  margin-bottom: 10px;
+  border: 1px solid black;
+  margin-right: 10px;
+}
+
+.photos {
+  display: flex;
+  width: 800px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: 600px;
+  margin-top: 60px;
+}
+h1 {
+  margin-left: 175px;
+}
+.picname {
+  margin-top: -13px;
+  width: 250px;
 }

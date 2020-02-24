@@ -16,14 +16,17 @@ export default props => {
 
   return (
     <div id="box">
-      <h1 className="head">Album 1</h1>
-      {photos.map(photo => (
-        <Link to={"/PicName/" + photo.id}>
-          <div className="photos">
-            <img src={photo.url}></img>
-          </div>
-        </Link>
-      ))}
+      <h1 className="head">{album.name}</h1>
+      <div className="photos">
+        {photos.map(photo => (
+          <Link to={"/PicName/" + photo.id}>
+            <div>
+              <img src={photo.url}></img>
+              <p className="picname">{photo.title}</p>
+            </div>
+          </Link>
+        ))}
+      </div>
     </div>
   )
 }

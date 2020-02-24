@@ -3,12 +3,12 @@
     {
       "id": 1,
       "coverPhoto": "https://images.unsplash.com/photo-1506318164473-2dfd3ede3623?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80",
-      "name": "Places to Visit"
+      "name": "Places"
     },
     {
       "id": 2,
       "coverPhoto": "https://images.unsplash.com/photo-1574879761637-8a6e76ac5662?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=80",
-      "name": "Sports Cars"
+      "name": "Cars"
     },
     {
       "id": 3,
